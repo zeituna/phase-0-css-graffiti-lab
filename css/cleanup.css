@@ -1,1 +1,38 @@
-/* write your override styles here */
+/* Cleanup CSS - hiding graffiti tags on the wall */
+
+/* Hide graffiti tag 1 */
+#wall .tag-1 {
+  display: none;
+}
+
+/* Hide graffiti tag 2 */
+#wall #tag-2 {
+  display: none;
+}
+
+/* Hide graffiti tag 3 */
+#wall #tag-3.slick {
+  display: none;
+}
+
+/* Hide graffiti tag 4 */
+#wall #tag-4 {
+  display: none;
+}
+
+/* Hide graffiti tag 5 */
+#wall #tag-5.slick {
+  display: none;
+}
+
+/* Hide graffiti tag 6 */
+#wall #tag-6 {
+  display: none;
+}
+
+/* Hide graffiti tag 7 */
+#wall #tag-7.slick {
+  display: none;
+}
+
+/* All graffiti tags hidden, wall is clean */
